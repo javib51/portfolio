@@ -2,18 +2,29 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - Express
-  - GraphQL
-  - NativeScript
+  - API Rest design
+  - Cloud Services Design
+  - Docker
+  - Kubernetes
+  - Gitlab CD/CI
+  - Java (8+)
+  - Go
+  - Python
+  - MySql
+  - Spring Boot
+  - Quarkus
+  - Django
+  - Flask
+  - Flutter
+  - Dart
+  - Firebase
+  - Google Cloud Development
+  - AWS Basics
+  - JavaScript (I will complain if I'm forced to use it :p)
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Hello! I'm Javier, a software engineer based in Stockholm, Sweden who enjoys be challenged and solve problems in different ways (System Design, CD/CI, testing and backend development). Lately, I have been focus on my studies at [EIT Digital Master School](https://masterschool.eitdigital.eu/) ([Aalto University](https://aalto.fi/) and [KTH University](https://kth.se/)) where I keep developing my Cloud Architecture design skills meanwhile I learn the basics of Entrepeneurship. [Kaizen](https://en.wikipedia.org/wiki/Kaizen) is a key personal foundation that I apply to my personal and profesional life.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Shortly after graduating from [Technical University of Madrid](http://www.upm.es/internacional), I joined the engineering team at [Vipera](http://www.vipera.com/) where I worked on a wide variety of interesting and challenging projects on a daily basis. Nowdays, I spend my time finishing my master degree in _Cloud Computing and Entrepeneurship_ and developing a peer to peer online rental marketplace [Trukatu](https://trukatu.io).
 
-Here's a few technologies I've been working with recently:
+Here are some of my tech skills:
