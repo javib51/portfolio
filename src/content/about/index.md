@@ -12,14 +12,14 @@ skills:
   - Python
   - MySql
   - Spring Boot
-  - Quarkus
-  - Django
   - Flask
   - Flutter
   - Dart
   - Firebase
-  - Google Cloud Development
+  - GCP Development
   - AWS Basics
+  - Terraform
+  - Ansible
   - JavaScript (I will complain if I'm forced to use it :p)
 ---
 
