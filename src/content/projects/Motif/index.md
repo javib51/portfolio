@@ -9,7 +9,7 @@ tech:
   - OSGI
   - Apache Felix
   - Docker
-  - Gitlab CD/CI
+  - Gitlab CI/CD
 show: 'true'
 ---
 

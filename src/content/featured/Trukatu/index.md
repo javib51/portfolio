@@ -6,7 +6,7 @@ external: 'https://trukatu.io/'
 tech:
   - Flutter
   - Docker
-  - Gitlab CD/CI
+  - Gitlab CI/CD
   - Algolia
   - Python
   - Java Quarkus
