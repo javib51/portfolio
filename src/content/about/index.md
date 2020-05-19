@@ -6,7 +6,7 @@ skills:
   - Cloud Services Design
   - Docker
   - Kubernetes
-  - Gitlab CD/CI
+  - Gitlab CI/CD
   - Java (8+)
   - Go
   - Python
