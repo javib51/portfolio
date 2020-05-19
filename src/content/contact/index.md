@@ -2,6 +2,9 @@
 title: 'Get In Touch'
 ---
 
-I'm currently looking for opportunities, around the world (mainly Europe). Even if I am not actively seeking for an opportunity, my inbox is always open. Whether for a potential job, project or even just to say hi. I will be really happy to hear from you.
+<!--- 
+I'm currently looking for opportunities around Europe. However, nowadays, I am open to any amazing opportunity around the World. Remote Jobs +1.
+Anyway, ven if I am not actively seeking for an opportunity, 
+-->
 
-I'll try my best to answer your email as soon as possible!
+I'm not looking for new job opportunities at the moment. However, if you want to say hi, my inbox is always open. I will be really happy to hear from you ;) 
